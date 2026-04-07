@@ -1,0 +1,1 @@
+Aplicación desarrollada en .NET que integra una API de wallet para interactuar con tecnología blockchain, permitiendo consultar información de cuentas, balances y transacciones de criptomonedas. El proyecto implementa una arquitectura en capas (API, AppLogic, DataAccess, DTOs) siguiendo buenas prácticas de desarrollo y diseño de software.
